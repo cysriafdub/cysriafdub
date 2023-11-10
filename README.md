@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "300px" src="https://i.ibb.co/wQjmJJM/7179006.jpg" alt="cover" />
+<img width="60%" height = "100px" src="https://i.ibb.co/wQjmJJM/7179006.jpg" alt="cover" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sofia</h1>
