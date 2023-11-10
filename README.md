@@ -1,10 +1,15 @@
+<div align="center">
+<img width="100%" height = "300px" src="https://i.ibb.co/wQjmJJM/7179006.jpg" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Sofia</h1>
 <!-- <h3 align="center">A passionate frontend developer from Philippines nga maglisod gyapon ug adjust sa div</h3> -->
 
 - 🌱 I’m currently learning **Javascript and Python**
 - 🌱 char ragud
 
-<h3 align="left">Connect with me:</h3>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+
 <p align="left">
   <a href="https://twitter.com/bdycsreum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bdycsreum" height="30" width="40" /></a>
   <a href="https://fb.com/allnsfdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="allnsfdr" height="30" width="40" /></a>
