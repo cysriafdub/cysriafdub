@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Sofia</h1>
+<h1 align="center">Hi 👋, I'm Sofia</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 - 🌱 I’m currently learning **Javascript and Python**
