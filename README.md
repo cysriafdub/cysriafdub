@@ -21,6 +21,6 @@
 
 <h3 align="left">GitHub Contribution</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sopheedaire&show_icons=true&count_private=true&hide=issues&include_all_commits=true&line_height=24&theme=omni" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopheedaire&layout=compact&theme=omni" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cysriafdub&show_icons=true&count_private=true&hide=issues&include_all_commits=true&line_height=24&theme=omni" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cysriafdub&layout=compact&theme=omni" alt="Top Languages" />
 </p>
