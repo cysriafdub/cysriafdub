@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
 <!-- <h3 align="center">A passionate frontend developer from Philippines nga maglisod gyapon ug adjust sa div</h3> -->
 
-- 🌱 I’m currently learning **Javascript and Python**
-- 🌱 char ragud
+- 🌱 I’m currently learning **Python, Javascript and SQL**
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
